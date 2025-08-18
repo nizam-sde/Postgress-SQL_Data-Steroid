@@ -1,4 +1,4 @@
-// it is cont case sensitive but industry standards are CAPITAL letters for SYNTAX
+-- // it is not case sensitive but industry standards are CAPITAL letters for SYNTAX
 
 CREATE TABLE btech(
     roll_no INTEGER,
